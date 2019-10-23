@@ -20,7 +20,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 @media screen and (min-width: 820px) {
     .intro {
-        align-self: flex-end;
+        align-self: flex-start;
     }
 }
 .intro-headline {
@@ -49,7 +49,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 @media screen and (min-width: 820px) {
     .s_professional-experience {
-        align-self: flex-end;
+        align-self: flex-start;
         max-width: 660px;
     }
 }
@@ -71,14 +71,14 @@ h1, h2, h3, h4, h5, h6 {
     line-height: 32px;
     font-size: 16px;
     list-style: none;
-    padding: 15px 17px 12px 17px;
+    padding: 15px 17px 12px 50px;
     background: #007eff;
     width: 100%;
     align-self: flex-start;
 }
 @media screen and (min-width: 820px) {
     .s_last-work {
-        align-self: flex-end;
+        align-self: flex-start;
         max-width: 630px;
     }
 }
