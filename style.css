@@ -33,7 +33,7 @@ h1, h2, h3, h4, h5, h6 {
 @media screen and (min-width: 820px) {
     .intro-headline {
         font-size: 80px;
-        padding: 37px 52px 20px 45px;
+        padding: 37px 52px 20px 0;
     }
 }
 .s_professional-experience {
