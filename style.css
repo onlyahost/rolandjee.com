@@ -72,7 +72,7 @@ h1, h2, h3, h4, h5, h6 {
     font-size: 16px;
     list-style: none;
     padding: 15px 17px 12px 50px;
-    background: #007eff;
+    background: #333;
     width: 100%;
     align-self: flex-start;
 }
