@@ -15,7 +15,7 @@ h1, h2, h3, h4, h5, h6 {
     flex-direction: column;
 }
 .intro {
-    padding: 50px;
+    padding: 50px 50px 15px;
     align-self: flex-start;
 }
 @media screen and (min-width: 820px) {
@@ -24,7 +24,6 @@ h1, h2, h3, h4, h5, h6 {
     }
 }
 .intro-headline {
-    border: 12px solid #333;
     color: #333;
     display: inline-block;
     font-size: 39px;
@@ -61,6 +60,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 .s_professional-experience li {
     margin: 36px 0;
+    text-rendering: geometricPrecision;
+    color: #333;
 }
 .s_last-work {
     text-align: left;
